@@ -1,0 +1,17 @@
+{
+    "name": "judson-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Daniel Johnson"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/judson-bower.git"
+    },
+    "description": "Judson font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
